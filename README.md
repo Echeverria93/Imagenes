@@ -14,10 +14,10 @@ Recursos GCP
 - **Storage**
 
 
-<p align="center"> <h1 align="center">Infraestructura</h1> </p>
+<h1 align="center">Infraestructura</h1>
 
 <p align="center"> <img alt="Terraform" src="https://github.com/Echeverria93/Imagenes/blob/master/Infraestructura%20ZWALLET.PNG"
- width="200px" high="200xp" align="middle"></p>
+ width="500px" high="500xp" align="middle"></p>
 
 
 
