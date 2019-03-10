@@ -5,9 +5,9 @@
 Proyecto ZWALLET 
 ================================
 
-<p align="center"> <img alt="Terraform" src="https://github.com/Echeverria93/Imagenes/blob/master/og-image-8b3e4f7d.png"
- width="200px" high="200xp" align="middle"></p>
- 
+<img alt="Terraform" src="https://github.com/Echeverria93/Imagenes/blob/master/og-image-8b3e4f7d.png"
+ width="200px" high="200xp" align="middle">
+
 Recursos GCP  
 =====================
 
