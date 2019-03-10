@@ -12,6 +12,7 @@ Recursos GCP
 - **LoadBalancer HTTPS**
 - **Cloud SQL MYSQL 2 Generación**
 - **Storage**
+- **Cloud CDN**
 
 
 <h1 align="center">Infraestructura</h1>
